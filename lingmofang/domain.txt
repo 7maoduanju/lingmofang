@@ -1,0 +1,2 @@
+# 每行填写一个基础域名，不写 http://、https:// 或路径
+# example.com
